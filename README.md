@@ -8,6 +8,9 @@ Daily readings from air quality monitoring stations since 17 March were compared
 
 ## Get the data 
 
+* Defra: [Latest measured levels based on data provided by the Environment Agency](https://uk-air.defra.gov.uk/latest/currentlevels)
+* XLSX: [Air pollution data including regional analysis](https://github.com/BBC-Data-Unit/Coronavirus-air-pollution/blob/master/air_pollution_2_weeks_since_lockdown.xlsx)
+
 ## Quotes and interviews
 
 * Jenny Bates, clean air campaigner, Friends of the Earth 
@@ -21,3 +24,7 @@ Daily readings from air quality monitoring stations since 17 March were compared
 
 * Multiple line chart: Average daily nitrogen dioxide readings, March 17-April 5 2019 vs 2020
 * Grouped bar chart: Daily nitrogen dioxide readings by most polluted areas, March 17-April 5 2019 vs 2020
+
+## Scripts
+
+* R script: [data analysis](https://github.com/BBC-Data-Unit/Coronavirus-air-pollution/blob/master/NO2_data_by_hour_march.R)
