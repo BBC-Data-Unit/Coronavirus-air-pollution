@@ -1,0 +1,42 @@
+<outwitAutomator>
+<documentproperties>
+<active>true</active>
+<url>https://www.crowdfunder.co.uk</url>
+<masterId>{d9cfa57b-9726-4291-96d3-4d32bafdf65c}</masterId>
+<name>crowdfunder.co.uk search results</name>
+<version>1.0</version>
+<versionId>{d9cfa57b-9726-4291-96d3-4d32bafdf65c}</versionId>
+<automatorType>scraper</automatorType>
+<kernelVersion>8.0.0.58</kernelVersion>
+<creationOutfit>OutWit Hub</creationOutfit>
+<author />
+<company />
+<created>2020-04-15T10:03:21+01:00</created>
+<lastModified>2020-04-15T10:05:35+01:00</lastModified>
+<comments />
+<options /><hash>Jq6XeLFY4OSMjhJDG+FeoQ==</hash>
+</documentproperties>
+<data>
+<line>
+<ok>true</ok>
+<description>heading</description>
+<before>&lt;h5 class="cf-text cf-text--header"&gt;
+        &lt;a href="</before>
+<after>&lt;/a</after>
+<format></format>
+<replace></replace>
+<separator>" class="cf-text</separator>
+<labels>heading,url</labels>
+</line>
+<line>
+<ok>false</ok>
+<description>raised</description>
+<before>&lt;span class="cf-text cf-text--light cf-text--fixed14"&gt;</before>
+<after>% &lt;span</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+</data>
+</outwitAutomator>

@@ -1,0 +1,131 @@
+<outwitAutomator>
+<documentproperties>
+<active>true</active>
+<url>https://www.crowdfunder.co.uk</url>
+<masterId>{1998a3fc-0cb1-4b90-8baa-4a87e4c9f675}</masterId>
+<name>crowdfunder.co.uk Scraper</name>
+<version>1.0</version>
+<versionId>{1998a3fc-0cb1-4b90-8baa-4a87e4c9f675}</versionId>
+<automatorType>scraper</automatorType>
+<kernelVersion>8.0.0.58</kernelVersion>
+<creationOutfit>OutWit Hub</creationOutfit>
+<author />
+<company />
+<created>2020-04-08T14:10:21+01:00</created>
+<lastModified>2020-04-22T11:00:57+01:00</lastModified>
+<comments />
+<options /><hash>9QKPF7RbIbYUvx4Mamq24g==</hash>
+</documentproperties>
+<data>
+<line>
+<ok>true</ok>
+<description>title</description>
+<before>&lt;title&gt;    </before>
+<after>&lt;/title</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+<line>
+<ok>true</ok>
+<description>created</description>
+<before>"uploadDate": "</before>
+<after>"</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+<line>
+<ok>true</ok>
+<description>heading</description>
+<before>&lt;h1</before>
+<after>&lt;/h1</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+<line>
+<ok>true</ok>
+<description>by</description>
+<before>&lt;h2 class="cf-text cf-text--body cf-text--dark cf-text--l2c"</before>
+<after>&lt;/h2</after>
+<format></format>
+<replace></replace>
+<separator>&lt;a href</separator>
+<labels>delete,by,location,description</labels>
+</line>
+<line>
+<ok>true</ok>
+<description>raised</description>
+<before>&lt;h4 class="cf-text cf-text--header cf-text--h4" data-strip-element="bottom"&gt;£</before>
+<after>&lt;/h4</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+<line>
+<ok>true</ok>
+<description>oftarget</description>
+<before>raised of £</before>
+<after> target&lt;/span&gt;</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+<line>
+<ok>true</ok>
+<description>supporters</description>
+<before>&lt;h5 class="cf-text cf-text--header cf-text--h4" data-strip-element="bottom"&gt;</before>
+<after>&lt;/h5</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+<line>
+<ok>true</ok>
+<description>timeleft</description>
+<before>&lt;span class="cf-text cf-text--fixed14"&gt;</before>
+<after>&lt;/span</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+<line>
+<ok>true</ok>
+<description>raisedby</description>
+<before>&lt;span class="cf-text cf-text--thick"&gt;</before>
+<after>&lt;/span</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+<line>
+<ok>true</ok>
+<description>startedon</description>
+<before>&lt;span class="cf-text cf-text--fixed14 cf-text--thin"&gt;</before>
+<after>&lt;/span</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+<line>
+<ok>true</ok>
+<description>category</description>
+<before>&lt;div data-tip-box="bookmark"&gt;&lt;a class="cf-text cf-text--fixed14 cf-text--light"</before>
+<after>&lt;/a</after>
+<format></format>
+<replace></replace>
+<separator></separator>
+<labels></labels>
+</line>
+</data>
+</outwitAutomator>
