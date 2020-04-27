@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/10171/production/_111650956_airpollution-nc.png)
 
-In April 2020 we reported on significant drops in air pollution in the two weeks since the country went into lockdown to stop the spread of coronavirus.
+In April 2020 we [reported](https://www.bbc.co.uk/news/uk-england-52202974) on significant drops in air pollution in the two weeks since the country went into lockdown to stop the spread of coronavirus.
 
 Daily readings from air quality monitoring stations since 17 March were compared to the same period last year, accounting for weekdays.
 
