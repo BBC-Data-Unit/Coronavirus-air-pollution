@@ -16,7 +16,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Manchester Evening News: [Air pollution levels have fallen by more than a third in Manchester since the coronavirus pandemic lockdown, a study reveals](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/air-pollution-fall-mancxhester-lockdown-18141155) *23 April 2020* 
 * Nottinghamshire Live: [Air pollution in Nottingham drops to lowest level on record during lockdown](https://www.nottinghampost.com/news/local-news/air-pollution-nottingham-drops-lowest-4074617) *24 April 2020*
 
-The story was also used by [BBC Tees](https://www.bbc.co.uk/news/uk-england-tees-52386582)
+The story was also used by [BBC Tees](https://www.bbc.co.uk/news/uk-england-tees-52386582), BBC Somerset, BBC Hereford & Worcester, BBC Radio Lincolnshire, BBC Radio Derby and BBC Radio Devon
 
 ## Get the data 
 
