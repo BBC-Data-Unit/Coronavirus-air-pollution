@@ -11,6 +11,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Radio Exe: [Exeter air pollution plummets](https://www.radioexe.co.uk/news-and-features/local-news/exeter-air-pollution-plummets/) *9 April 2020*
 * The Lincolnite: [Lincoln air pollution halves in first two weeks of lockdown](https://thelincolnite.co.uk/2020/04/lincoln-air-pollution-halves-in-first-two-weeks-of-lockdown/) *16 April 2020*
 * Plymouth Live: [Plymouth's air quality has improved during the coronavirus lockdown](https://www.plymouthherald.co.uk/news/plymouth-news/plymouths-air-quality-improved-during-4062035) *21 April 2020*
+* Manchester Evening News: [Air pollution levels have fallen by more than a third in Manchester since the coronavirus pandemic lockdown, a study reveals](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/air-pollution-fall-mancxhester-lockdown-18141155) *23 April 2020* 
+* Nottinghamshire Live: [Air pollution in Nottingham drops to lowest level on record during lockdown](https://www.nottinghampost.com/news/local-news/air-pollution-nottingham-drops-lowest-4074617) *24 April 2020*
+
 
 
 ## Get the data 
