@@ -17,6 +17,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Nottinghamshire Live: [Air pollution in Nottingham drops to lowest level on record during lockdown](https://www.nottinghampost.com/news/local-news/air-pollution-nottingham-drops-lowest-4074617) *24 April 2020*
 * Edinburgh Live: [Timeline: How the new coronavirus spread in Edinburgh and the Lothians](https://www.edinburghlive.co.uk/news/edinburgh-news/timeline-how-new-coronavirus-spread-18129620) *26 April 2020*
 * Leeds Live: [The simply staggering impact lockdown has had on air pollution in Leeds](https://www.leeds-live.co.uk/news/leeds-news/simply-staggering-impact-lockdown-air-18149952) *27 April 2020*
+* Cheshire Live: [Coronavirus lockdown brings huge fall in air pollution in Warrington](https://www.cheshire-live.co.uk/news/chester-cheshire-news/coronavirus-lockdown-brings-huge-fall-18177099) *1 May 2020*
 
 The story was also used by [BBC Tees](https://www.bbc.co.uk/news/uk-england-tees-52386582), BBC Somerset, BBC Hereford & Worcester, BBC Radio Lincolnshire, BBC Radio Derby and BBC Radio Devon
 
